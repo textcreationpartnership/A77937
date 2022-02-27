@@ -1,0 +1,247 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ball his vindication against Bullock; shewing, a former narrative subscribed William Ball, to be true: and a late printed paper subscribed Edward Bullock, to be notoriously false and scandalous. / Humbly presented to the Parliament of England by VVilliam Ball, Esq.</title>
+            <author>Ball, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77937</idno>
+            <idno type="STC">Wing B598</idno>
+            <idno type="STC">Thomason E674_10</idno>
+            <idno type="STC">ESTC R207198</idno>
+            <idno type="EEBO-CITATION">99866267</idno>
+            <idno type="PROQUEST">99866267</idno>
+            <idno type="VID">118534</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77937)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118534)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 103:E674[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ball his vindication against Bullock; shewing, a former narrative subscribed William Ball, to be true: and a late printed paper subscribed Edward Bullock, to be notoriously false and scandalous. / Humbly presented to the Parliament of England by VVilliam Ball, Esq.</title>
+                  <author>Ball, William.</author>
+               </titleStmt>
+               <extent>[2], 11 [i.e. 13], [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Pages 10 and 11 repeated in pagination.</note>
+                  <note>A reply to an untraced pamphlet by Edward Bullock.</note>
+                  <note>Annotation on Thomason copy: "Aug 24 1652".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bullock, Edward.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118534:1" rendition="simple:additions"/>
+            <p>
+               <hi>BALL</hi> HIS VINDICATION Againſt BULLOCK; <hi>Shewing,</hi> A former NARRATIVE ſubſcribed <hi>William Ball,</hi> to be true: AND A late Printed Paper ſubſcribed Edward Bullock, to be No<g ref="char:EOLhyphen"/>toriouſly falſe and Scandalous.</p>
+            <p>HUMBLY PRESENTED TO The Parliament of <hi>ENGLAND,</hi> BY WILLIAM BALL, <hi>Eſq</hi>
+            </p>
+            <p>Printed in the Yeare, 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118534:2"/>
+            <pb n="1" facs="tcp:118534:2"/>
+            <head>
+               <hi>Ball</hi> his Vindication againſt <hi>Bullock;</hi> ſhewing a former Narrative ſub<g ref="char:EOLhyphen"/>ſcribed <hi>William Ball,</hi> to be true: AND <hi>A late Printed Paper in Anſwer there<g ref="char:EOLhyphen"/>unto, ſubſcribed</hi> Edward Bullock, <hi>To be Notoriouſly falſe and Scandalous.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Author of a late Printed Paper intituled, <hi>A ſhort, and true Vindication by</hi> Edward Bullock, <hi>&amp;c.</hi> Pag. 1. chargeth me with <hi>indirect practiſes in the matter in Queſtion;</hi> and then in a Marginall Note ſaith,, <hi>I call them indirect, becauſe I conceive it not warrantable for any to publiſh the proceedings of a Parliament-Committee, be<g ref="char:EOLhyphen"/>fore they have done it, or without their Order:</hi> By <hi>Bullocks</hi> favour, I know no Law, nor Order that prohibiteth the publiſhing of a Committee of Parliament their pro<g ref="char:EOLhyphen"/>ceedings without their Order; but rather thinke it rea<g ref="char:EOLhyphen"/>ſonable, that their proceedings be publiſhed to manifeſt their Juſtice, Equity, and integrity to the world, or the contrary if otherwiſe; beſides the then Committee for Indempnity <hi>had done,</hi> as to the <hi>ſubſtance</hi> of <hi>Bullocks</hi> Pe<g ref="char:EOLhyphen"/>tition; they having voted that <hi>there was no Morgage,
+<pb n="2" facs="tcp:118534:3"/>nor corrupt Decree as was complained of;</hi> Moreover the ſaid Committee was by Vote of Parliament diſ<g ref="char:EOLhyphen"/>ſolved, when I publiſhed the proceedings mentioned; And in the late <hi>Act for Transferring the Powers of the Committees for Indempnity,</hi> there is not one clauſe or ſillable inſerted, which transferreth any farther <hi>Hearing or Reporting</hi> of <hi>Bullocks Petition;</hi> albeit (as I have been cre<g ref="char:EOLhyphen"/>dibly informed) it was urged at what time the ſaid Act was paſſed; And certainly <hi>Bullocks</hi> Petition, being <hi>by ſpeciall Order of Parliament Referred to the Committee for Indempnity,</hi>
+               <note place="margin">☞ Unleſſe it had been expreſly comprehended in the late Act for Indempni<g ref="char:EOLhyphen"/>ty.</note> cannot but by ſpeciall Order of the Parliament be <hi>purſued</hi> by any other Power, or Per<g ref="char:EOLhyphen"/>ſons.</p>
+            <p>In the ſecond Page, <hi>Bullock</hi> ſaith, <hi>that as to the abbre<g ref="char:EOLhyphen"/>viation of the Petition, it</hi>'s <hi>indifferent juſt, and much of truth in it, but as to the Order he hath most groſſely, and fallaciouſly miſ-rejected it.</hi> Truly I abbreviated the Or<g ref="char:EOLhyphen"/>der, even as the Petition, but neither groſſely, nor falla<g ref="char:EOLhyphen"/>ciouſly on <hi>Bullocks</hi> part (as he impudently alleadgeth) but rather on the Defendants part if defective: I ſhall firſt inſtance mine owne abreviation, and then diſcuſſe that inſtanced by Bullock, <hi>on the which he ſo much in<g ref="char:EOLhyphen"/>ſisteth.</hi>
+            </p>
+            <p>
+               <hi>My Abbreviation is thus,</hi>
+            </p>
+            <p>Whereupon <hi>(in Relation unto the Petition)</hi> the Par<g ref="char:EOLhyphen"/>liament by their Order the 7. of <hi>November,</hi> 1650. did referre the ſaid Petition unto the Honorable Committee for Indemnity, <hi>to Examine, with power to ſend for Perſons, Papers, and Records, and to conſider the length of time, and how farre forth the matter was fit for Reliefe, and to give their Opinions therein, and report it to the Houſe.</hi>
+            </p>
+            <p>
+               <pb n="3" facs="tcp:118534:3"/>Bullock <hi>hath it thus Printed,</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <head>
+                           <hi>Die Jovis</hi> 7. <hi>November</hi> 1650. The Humble Petition of <hi>Edward Bullock</hi> Gentleman, an Inhabitant of New-<hi>England</hi> was this day read.</head>
+                        <p>
+                           <hi>Ordered by the Parliament, that this Petition be referred to the Committee of Indempnity to Examine the truth of the motter,</hi> [certainly, whether Morgage or no Morgage (as was complained of) corrupt or no corrupt Decree] <hi>to conſider the length of time, and how far this caſe is fit for Reliefe</hi> [whether (in caſe it were a Morgage) fit for Redemption in regard of the length of time] <hi>(and to report the true ſtate of it.)</hi>
+                           <note place="margin">The Defen<g ref="char:EOLhyphen"/>dant <hi>Standen</hi> deſireth the true ſtate of the caſe may be Reported ac<g ref="char:EOLhyphen"/>cording to <hi>Re<g ref="char:EOLhyphen"/>cords, and Deeds,</hi> but not accor<g ref="char:EOLhyphen"/>ding to <hi>Heare-ſayes.</hi>
+                           </note> [That the Houſe might not be deceived in the caſe] <hi>with their Opinions to the Houſe</hi> [for their cleere underſtanding of the matter in Debate] <hi>with Power to ſend for Perſons, Papers, and Records.</hi>
+                        </p>
+                        <closer>
+                           <signed>Henry Scobel <hi>Cleric. Parl.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <pb n="4" facs="tcp:118534:4"/>Thus have I according to <hi>Bullocks</hi> Printed Paper inſerted the Parliaments Order (not differing in ſub<g ref="char:EOLhyphen"/>ſtance from mine owne abbreviation) and have Com<g ref="char:EOLhyphen"/>mented thereupon (according to Law, Equity, and Rea<g ref="char:EOLhyphen"/>ſon, as I take it) that <hi>Bullock</hi> may not by miſtake con<g ref="char:EOLhyphen"/>ſtrue the Order of the Parliament of <hi>Old England</hi> ac<g ref="char:EOLhyphen"/>cording to his <hi>New England</hi> ſenſe; for although <hi>Bullock</hi> hath in the Prayer of his Petition requeſted more, then he complaineth of in the Petition it ſelfe (as if the Ad<g ref="char:EOLhyphen"/>jective were of more validity than the Subſtantive) yet we know that our Parliament underſtands Logick ſo well, as to know <hi>Relatum, &amp; Correlatum,</hi> that an Order <hi>in Relation</hi> to a <hi>Petition</hi> ſhould not, nor ought not to be wreſted or interpreted beyond it.</p>
+            <p>In the ſame Page <hi>Bullock</hi> ſayes; <hi>But the Authour, to put the better vizard upon his cauſe</hi> (<hi>which</hi> (as he ſayes) <hi>he is unwilling ſhould come before upright, and impartiall Iudges</hi>) <hi>leaves out the most materiall Parts of the Order, which you finde in the Parentheſis, and in the latter end ſayes,</hi> And to give their opinion therein; <hi>as if he would by that expreſsion inſinnate a beliefe in the Readers, that the Committee had a power of determining the cauſe:</hi> in the firſt place I have put no vizard upon my cauſe which needeth <hi>None,</hi> nor am I unwilling that it ſhould come before <hi>upright, and unpartiall</hi> Judges, although I ſhould be unwilling that it ſhould come before any <hi>Partiall, or pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-affected</hi> Judges; for the materiall parts of the Order (which he calls ſo) I have interpreted them already; but <hi>Bullock</hi> ought to Reflect on the materiall Parts of his Petition, (viz. <hi>a morgage, and corrupt Decree</hi>) to the which the Order hath Relation, and then he would finde the whole Order to be alike materiall; whereas he ſayes,
+<pb n="5" facs="tcp:118534:4"/>that I by the words <hi>[And to give their opinions therein]</hi> would inſinuate a belief in the Readers) that the Com<g ref="char:EOLhyphen"/>mittee had a Power of determining the cauſe, he is greatly miſtaken, for I have ſaid in my abbreviation, <hi>and to give their Opinions therein, and report to the Houſe.</hi>
+            </p>
+            <p>In the 3. Page <hi>Bullock</hi> ſayes, <hi>that the Depoſitions (con<g ref="char:EOLhyphen"/>ſidering the length of time, &amp;c.) are taken from the mouths of ſuch witneſſes, againſt whom there is no juſt exception, and do prove the moſt part of my complaint fully;</hi> to which I anſwer (as formerly in my Narrative) that the Depo<g ref="char:EOLhyphen"/>ſitions are but matters of <hi>Hear-ſayes,</hi> excepting thoſe of one <hi>Allnut,</hi> who by his owne affirmation could not be above 6. or 7. yeares old at the time of the Bargain, and ſale of the Lands to <hi>Standen</hi> the Purchaſor, and yet that fellow (having been an under-Sergeant or waiter at one of the Counters <hi>London</hi>) hath audaciouſly ſworn <hi>Poſitively to his knowledge,</hi> Yea and hath gone ſo farre as to ſweare a <hi>Negative;</hi> alſo that man and moſt of the Deponents are, or call themſelves <hi>Bullock</hi> the Peti<g ref="char:EOLhyphen"/>tioners Kinred (moſt of them being alſo of his name) they are for the moſt part very meane, and inconſi<g ref="char:EOLhyphen"/>derable Perſons, One (if not more) of them a Cottager; alſo that the Depoſitions were unduely taken in the Country; for firſt, the Committee were impowred onely <hi>to ſend for Perſons, Papers and Records;</hi> not to ſend downe Commiſſions into the Country, And thoſe Gentlemen muſt give me leave to tell them, that a Parliament-Committee ought not to exceed a <hi>tittle</hi> of their Order, or Power given unto them,<note place="margin">☞</note> for that were to exerciſe an <hi>Arbitrary Power, ad Placitum,</hi> which not any but the Parliament it ſelfe aſſembled (not Par<g ref="char:EOLhyphen"/>liament-men
+<pb n="6" facs="tcp:118534:5"/>in a Committee) can doe:<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>r can the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>liament <hi>me<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>d Placitum</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>rciſe an Ar<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ary Power, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> with cauſe <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſonably ma<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>eſted, &amp;c. I have in my <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ok <hi>De conſti<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>e Pop<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> li<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>i</hi> inſtanced.</note> Moreover <hi>Fleet Bullock</hi> the Petitioners Brother having a Com<g ref="char:EOLhyphen"/>miſſion into the Country, vapoured exceedingly in the preſence of the Deponents, and others; ſaying, and giving out, That they were ſure <hi>of the Lands,</hi> and that then they would be Courteous Neighbours, &amp;c. that they had many Parliament-men their Friends; by which meanes, and by their Invitations, and Feaſtings they allured many of their Deponents, to whom alſo they gave 2. s. 6, d. or more for their paines, as can be pro<g ref="char:EOLhyphen"/>ved. But admitting the Depoſitions were as full as <hi>Bullock</hi> alledgeth,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ave inſtan<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> all this for<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rly in my <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rrative.</hi>
+               </note> ſhall Depoſitions of <hi>Hear-ſayes</hi> be bal<g ref="char:EOLhyphen"/>lanced with an <hi>abſolute Deed</hi> of bargaine and ſale enrol<g ref="char:EOLhyphen"/>led; with fines, and recoveries exemplified under the great Seale; with a Releaſe of <hi>Interest with warranty</hi> for <hi>Standen,</hi> and his Heires for ever? certainly that were againſt all Law and Reaſon.</p>
+            <p>In the ſame Page, <hi>Bullock</hi> to colour his pretence of a morgage in his Petition mentioned, ſaith, <hi>that, in the Deed the Eſtate is claimed by, is not onely granted the Eſtate in particular, but likewiſe all the Eſtate whatſoever within the Realme of England, which ſhould, or ought of right to deſcend to my Uncle, &amp;c.</hi> But what of this? if his Uncle (whom he calls <hi>the pretended vendor</hi>) would ſell all his Eſtate in <hi>England,</hi> might not <hi>Standen</hi> pur<g ref="char:EOLhyphen"/>chaſe, and obteine as much as he could for his money? is there any law, or cuſtome to the contrary? ſure I am that all underſtanding Lawyers will affirme that ſuch Generall Tearmes may be ſufficient in a Deed of Purchaſe; however my ſelfe and my Kinſman hold no more Lands which were his Uncles, then what are mentioned in <hi>Bullocks</hi> Petition, lying in the forreſt of <hi>Windſor,</hi> and Diviſion thereof.</p>
+            <p>
+               <pb n="7" facs="tcp:118534:5"/>In the Page aforeſaid; <hi>Bullock</hi> ſaith; <hi>that it cannot be expected</hi> he <hi>ſhould make out Corruption in a Iudge Dead (after ſo many yeares, and not being a party to the cauſe) ſo fully as if done but yeſterday;</hi> by his leave, or ra<g ref="char:EOLhyphen"/>ther audaciouſneſſe, the L. Keeper <hi>Egerton</hi> was never accompted a corrupt Judge, nor any way blemiſhed with corruption; certainely had it been ſo <hi>in Bullocks caſe,</hi> ſome of the ſucceeding Keepers, upon complaint would have Redreſſed it: But <hi>Bullock</hi> ſeemeth to lay an aſpertion upon the L. Keeper <hi>Egerton,</hi> in that he paſſed a Decree in behalfe of <hi>Standen,</hi> which <hi>he prayed not for</hi> (as ſaith <hi>Bullock</hi>) for my part I have not peruſed the De<g ref="char:EOLhyphen"/>cree; but admitting what <hi>Bullock</hi> alledgeth to be true, the L. Keeper might well doe it, for <hi>Thomas Bullock</hi> had made a fraudulent conveyance Dated, 2. of <hi>Ianuary</hi> 28.<note place="margin">☞</note> of <hi>Eliz.</hi> (at this day to be ſeene) by which he en<g ref="char:EOLhyphen"/>deavoured not onely to defraud any Purchaſor, or Pur<g ref="char:EOLhyphen"/>cheſors; but alſo the Queen her ſelfe, her Heires, and Succeſſors, of Eſcheates in caſe of Treaſon; as by the ſaid Deed it doth, and may appeare; in regard of all which the L. Keeper might well Damme, and Decree againſt ſuch Deed or Deeds, <hi>allbeit not prayed for;</hi> yet did not L. Keeper <hi>Egerton</hi> Decree it by himſlfe, but by, and with the aſſiſtance of the Judges of either Bench, as by the Decree it doth appeare; and yet (by <hi>Bullocks</hi> acknowledgement, Pag. 4.) the L. Keeper <hi>left his Father to the Common Law to try his Title;</hi> which ſheweth no morgage: in the ſame Pag. <hi>Bullock</hi> ſaith; <hi>That the L. Keeper being Iudge in the Star-Chamber (a juſt ſentenced Court for its Corruption, and oppreſsion) the ſaid</hi> Standen <hi>preferred his Bill there againſt my Father, and had thoſe Deedes (I offered at the Hearing, which were
+<pb n="8" facs="tcp:118534:6"/>allowed then by the now Defendants Councell) Damned, and cancelled, and adjudged fraudulent by Reaſon of the Pretended Power of Revocation.</hi> To all which I anſwer; That the L. Keeper was (I believe) Judge in the Starr-chamber, as uſually the L. Keepers were; That that Court might be juſtly ſentenced for <hi>Rigorous oppreſsion</hi> rather then for <hi>corruption;</hi> However it was in thoſe <q>Dayes <hi>The Court</hi> to puniſh Forgery, Perjury, ſubor<g ref="char:EOLhyphen"/>nation of witneſſes, of all which <hi>Bullocks</hi> Father was guilty as by Records Exemplified under the Great ſeales of Queen <hi>Elizabeth,</hi> and King <hi>Iames</hi> it may ap<g ref="char:EOLhyphen"/>peare, as in my Narrative I have ſet forth; ſo that <hi>Bullock</hi> was Juſtly ſentenced in that Court for his unjuſt, and enormious Practices.</q> He ſaith there that <hi>his Fathers Deeds were Damned, and cancelled, and ad<g ref="char:EOLhyphen"/>judged fraudulent by Reaſon of the Pretended Power of Revocation;</hi> To this impudent Aſſertion I anſwer, <q>That the Deed by which <hi>Bullock</hi> would claime, is at this day uncancelled, Dated 2. of <hi>Ian.</hi> 28. <hi>Eliz.</hi> (as aforeſaid) comprehending a foregoing Deed made to <hi>Edward Combes</hi> Dated the 22. of <hi>December</hi> before; that the forementioned Deed is ſigned <hi>Thomas Bullock, William Kingsmell, Edward Combes</hi> before named; That it hath <hi>an abſolute and expreſſe clauſe of Revoca<g ref="char:EOLhyphen"/>tion to all uſes, intents, and purpoſes whatſoever. To the only uſe of Thomas Bullock</hi> (the vendor) <hi>and to his Heirs for evermore;</hi>
+               </q> as by the ſaid Deed it doth, and may appeare; ſo that <hi>Thomas Bullock</hi> had thereby full pow<g ref="char:EOLhyphen"/>er to ſell his Lands, as other men have, who hold Lands to themſelves and their Heirs for ever: Moreover <hi>Thomas Bullock</hi> did actually Revoke this forementioned Deed, the 3. of <hi>Iune</hi> in the 31. of <hi>Eliz.</hi> before ſix ſuffi<g ref="char:EOLhyphen"/>cient
+<pb n="9" facs="tcp:118534:6"/>witneſſes, One of them being a Maſter of Chan<g ref="char:EOLhyphen"/>cery; another one of the ſix Clerks; a third Clerk of the Petty-Bagg; all of them <hi>Eſquires,</hi> as can be made appeare. <hi>Bullock</hi> ſayes, <hi>thoſe Deeds were offered and allowed at the Hearing,</hi> which is moſt falſe; for his Councell only talked of ſome Copies of Records; this Deed he could not have; But what have ſuch Deeds to doe with a Morgage? if there were a <hi>Mor<g ref="char:EOLhyphen"/>gage,</hi> why perſued he not that, but waved from it at the Hearing, and would faine have inſiſted upon his pretended Title? if there were a Title at Law, why did he not mention that in his <hi>Petition,</hi> that we might have knowne where to finde him? But <hi>Bullock</hi> hath, and doth ſometimes Pretend a Morgage (which notwithſtan<g ref="char:EOLhyphen"/>ding his Father never Pretended, as by Records may be made appeare) ſometimes a title at Law,<note place="margin">☞</note> which I have here inſtanced, and which was adjudged fraudu<g ref="char:EOLhyphen"/>lent by the Judges of the Land upon ſolemne Debate; whom this man moſt audaciouſly Taxeth, ſaying in the forementioned Pag. <hi>that if the L.</hi> Cook, <hi>and the Iudges were now alive, they would be aſhamed of their o<g ref="char:EOLhyphen"/>pinions and Iudgements.</hi>
+            </p>
+            <p>In the aforeſaid Pag. <hi>Bullock</hi> ſayes, <hi>that there was no fraud in the Deeds</hi> (which is as true, as that there was no Power of Revocation in the Deed mentioned <hi>The firſt of the Deeds being enrolled,</hi> That I take to be the Deed to <hi>Combes,</hi> which if it be it maketh no matter, for <hi>Standen</hi> had a fine, and Recovery from <hi>Combes</hi> as well as from <hi>Bullock,</hi> moreover that of <hi>Combes</hi> is comprehen<g ref="char:EOLhyphen"/>ded, and compriſed in the Deed made with Power of Revocation already mentioned, which laſt was fraudu<g ref="char:EOLhyphen"/>lent, in regard fraudulently made, and fraudulently
+<pb n="10" facs="tcp:118534:7"/>concealed: as for the Fines, and Recoveries they doe not Declare the uſes, intents, or purpoſes of a Deed.</p>
+            <p>In the ſame Page he ſaith, <hi>I know not of any ſuch Leaſe, nor charges, neither was it proved by any Deeds, witneſſes, or other writings, but by a pretended Bill of</hi> Standens, <hi>And an Anſwer of mine Uncles in Chancery exemplified, which I am perſwaded is most falſe, and ſurreptitiouſly obtained,</hi> &amp;c. Firſt, for the Leaſes they are in the Deed of Bargaine, and Sale mentioned, and exempted; which Deed was produced, and yealded unto by <hi>Bul<g ref="char:EOLhyphen"/>locks</hi> Councell at the hearing; for the matter of Dow<g ref="char:EOLhyphen"/>er, it was alleadged by <hi>Standens</hi> Councell, and the Deeds are in Being; but were inſiſted <hi>to diſprove a Mor<g ref="char:EOLhyphen"/>gage,</hi> the maine ſcope of the Petition; and that we ſo far diſproved, as that <hi>the Committee hath Voted that there was no Morgage, nor corrupt Decree, as by</hi> Bullock <hi>was complained of.</hi> But is not <hi>Bullock</hi> impudent to intimate a Bill, and Anſwer Exemplified under the Great Seale to be falſe and ſurreptitiouſly obtained?</p>
+            <p>I am even weary of Anſwering this mans Inſolences, and impertinences; but ſhall briefly inſiſt upon a few; he ſaith his Father was five yeares in the <hi>Fleet,</hi> ſo ought he to be for falſe clamour, and vexatious Practiſes: <hi>Pag.</hi> 6. he ſaith, that <hi>as to the Votes</hi> of the late Commit<g ref="char:EOLhyphen"/>tee (which I have in my <hi>Narrative</hi> inſerted) <hi>they are in ſubſtance truth,</hi>
+               <note place="margin">☞</note> then is the whole ſubſtance of his Peti<g ref="char:EOLhyphen"/>tion voted againſt, for that Committee hath voted that there was <hi>no Morgage nor corrupt Decree,</hi> as aforeſaid; The Reſidue is impertinent, or improbable, or abſo<g ref="char:EOLhyphen"/>lutely falſe; as firſt, that the Gentlemen of the ſub-Committee ſhould be a greater part of the time out of
+<pb n="11" facs="tcp:118534:7"/>Towne (being a whole yeares intervall) that the ſub-Committee ſhould ſeem inclineable <hi>to proceed according to the Order of the Houſe, to Report the true ſtate of the Caſe.</hi> Truly I conceive thoſe Gentlemen of more In<g ref="char:EOLhyphen"/>tegrity, and Judgement; for a ſub-Committee hath not to doe with an Order of the Houſe, not directed unto them, but others; they have onely to doe with the Committees Order: Secondly, That his Father laid <hi>a continuall claime,</hi> indeed he laid a con<g ref="char:EOLhyphen"/>tinuall clamor. Thirdly, he minceth out his Fathers crimes, which Exemplifications under the Great Seales of Queene <hi>Elizabeth,</hi> and King <hi>Iames,</hi> will make appeare Notorious for Forgery, Perjury, ſub<g ref="char:EOLhyphen"/>ornation of witneſſes, and ſuch like: Fourthly, That one <hi>Nicholas Mead</hi> ſhould ſteale away his Un<g ref="char:EOLhyphen"/>cles writings, where (ſaith he) it is to be vehemently ſuſpected, <hi>were the Defeaſance to the pretended Deed of Sale;</hi> how Rediculous this is let any man Judge; for a Defeaſance muſt be to a <hi>Reall</hi> Deed of Sale, not to a <hi>Pretended</hi> One; but as touching a Deed of Defeaſance, his Unkle hath acknowledged in his Anſwer, exemplified under the Great Seale, that hee had one for the tearme of his Naturall life, as for other writings they belonged of Right to <hi>Edmond Standen</hi> the Purchaſor; and whereas he ſaith, that <hi>Standen gave</hi> Mead <hi>a Coppy-hold, or</hi> 100l. <hi>as it is proved upon Oath,</hi> not any ſuch thing is proved but by <hi>Heare-ſayes,</hi> and therein it ſeemes they doe not a<g ref="char:EOLhyphen"/>gree, one affirming a Coppy-hold, and another an Hundred pound. Fiftly, he ſaith that it was confeſt by one of the Defendants Councell, that the Land was worth 1000l. <hi>per annum,</hi> this is Notoriouſly falſe,
+<pb n="10" facs="tcp:118534:8"/>but admit Councell ſhould therein miſtake, what is that to the purpoſe? he ſaith alſo that it is proved to be worth 6. or 700l. <hi>per annum,</hi> at the time of the pretended Sale, beſides woods to above double 4000l. this is not any way proved, but by Depoſitions of <hi>Heare-ſayes</hi> of his owne Name, and Kinred; of which I have inſtanced enough before. Sixthly, he calleth the Purchaſor <hi>(Standen)</hi> a <hi>pretended Purchaſor;</hi> that <hi>Edmond Standen</hi> was an abſolute Reall Purchaſor, hath been already proved before the Committee at the hearing, who have voted that there was <hi>no Mor<g ref="char:EOLhyphen"/>gage,</hi> therefore conſequently a <hi>Purchaſe:</hi> Laſtly, he ſaith,<note place="margin">☞</note> 
+               <hi>that God hath been pleaſed utterly to extinct that Name, and Blood</hi> (ſpeaking of the <hi>Standens</hi>) This is notoriouſly falſe, for my ſelfe the Author hereof, being Couſin, and Heire of <hi>William-Standen</hi> late of <hi>Aberfeld,</hi> Eſq. Dceaſed, was Sonne of <hi>Ioachim Ball</hi> Gentleman, and of <hi>Elizabeth</hi> his wife, Daughter of <hi>Antony Standen</hi> of <hi>E<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſher</hi> in the County of <hi>Surrey</hi> Gentleman, who was next brother to <hi>Edmond Standen</hi> the Purchaſor, as by matter of Record it doth, and may appeare; certainly therefore I am of the <hi>the Blood,</hi> although not of the name of the Purchaſor: my Kinſman, who injoyeth the Lands by Agreement, and con<g ref="char:EOLhyphen"/>tracts from me, was Son of <hi>Thomas Standen</hi> Gentleman, who was Son of <hi>Iohn Standen</hi> of <hi>Egham</hi> in the Coun<g ref="char:EOLhyphen"/>ty of <hi>Surrey</hi> aforeſaid Gentleman, who was fift Bro<g ref="char:EOLhyphen"/>ther of <hi>Edmond Standen</hi> the Purchaſor, ſo that he is both of the Name, and Blood: And if <hi>Bullock</hi> be a Sonne to the Brother of his Anceſtor, we are both of us Grandſones to the Brothers of Our Anceſtor: But by this may be perceived the Malicious, as well
+<pb n="11" facs="tcp:118534:8"/>as Contentions ſpirits of <hi>Bullock</hi> and his Brother; whom I leave to Gods Juſtice: to the Parliaments Judgement, and to all Judicious and honeſt men's cen<g ref="char:EOLhyphen"/>ſures.</p>
+            <p>I had anſwered this Scandalous Printed Paper ſooner, but albeit I heard thereof, yet untill the 21. of this inſtant <hi>Auguſt,</hi> I could never procure it.</p>
+            <closer>
+               <date>
+                  <hi>Auguſt</hi> this 24. 1652.</date>
+               <signed>William Ball.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
